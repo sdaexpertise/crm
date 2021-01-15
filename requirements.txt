@@ -1,2 +1,3 @@
 odooku-odoo-addons>=11.0.0,<11.0.7
 odooku>=11.0.0,<11.0.7
+bob-builder==0.0.13
